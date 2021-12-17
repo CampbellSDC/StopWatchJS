@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: grey;
+}
+
+#display {
+  font-size: 72px;
+  padding-bottom: 40px;
+}
+
+.btn {
+  margin-left: 15px;
+}
+
+.btn:hover{
+  color: blue;
+}
